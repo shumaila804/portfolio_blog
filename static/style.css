@@ -1,0 +1,9 @@
+/* Custom styles */
+body { font-family: Inter, Arial, sans-serif; background: #f7f8fb; margin:0; }
+.navbar-brand { font-weight:700; }
+.hero { padding:48px 0; }
+.card { transition: transform .18s ease, box-shadow .18s ease; }
+.card:hover { transform: translateY(-6px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+.container { max-width: 980px; }
+.footer { padding:24px 0; text-align:center; color:#666; margin-top:48px; }
+.post { background:white; padding:16px; border-radius:8px; margin-bottom:12px; box-shadow: 0 2px 8px rgba(0,0,0,0.03); }
