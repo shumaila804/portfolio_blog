@@ -52,9 +52,4 @@ portfolio_blog_full/
 - **Template linking**: Ensured `templates/` folder is sibling to `app.py` so Flask can locate templates.
 - **Form handling**: For the assessment we store submissions in-memory; in production you'd connect to a DB or send emails.
 
-## Notes for submission
-- Update `app.secret_key` to a secure value if deploying.
-- Add real project links or screenshots in `projects.html` before submission.
-- Commit to GitHub and include the repository link in your submission email.
 
-Good luck with your internship assessment! 😊
